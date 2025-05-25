@@ -4,7 +4,7 @@ Proyek ini menggunakan data dari set data Kaggle berikut ini:
 
 ## Dataset Warna Kulit
 * **Sumber:** [Dataset Warna Kulit](https://www.kaggle.com/datasets/ducnguyen168/dataset-skin-tone)
-* Deskripsi:** Dataset ini berisi gambar yang dikategorikan berdasarkan berbagai warna kulit. Ini digunakan untuk menganalisis dan mengklasifikasikan karakteristik warna kulit.
+* Deskripsi:** Dataset ini berisi gambar yang dikategorikan berdasarkan berbagai warna kulit yang berisi 4 kelas. Ini digunakan untuk menganalisis dan mengklasifikasikan karakteristik warna kulit.
 
 Dataset Bentuk Wajah ## Dataset Bentuk Wajah
 * **Sumber:** [Dataset Bentuk Wajah](https://www.kaggle.com/datasets/niten19/face-shape-dataset)
